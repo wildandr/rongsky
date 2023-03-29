@@ -1,2 +1,0 @@
-# rongsky
-GDSC Project
